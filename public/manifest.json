@@ -1,0 +1,17 @@
+{
+  "name": "Shimgelina ODR",
+  "short_name": "Shimgelina",
+  "description": "Online Dispute Resolution blending International Law and Ethiopian Shimgelina Wisdom.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://storage.googleapis.com/dala-prod-public-storage/generated-images/0edc293f-a0fb-408a-8e48-d357bbdabc58/app-icon-high-res-5f6ac5e8-1774039252548.webp",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any maskable"
+    }
+  ]
+}
